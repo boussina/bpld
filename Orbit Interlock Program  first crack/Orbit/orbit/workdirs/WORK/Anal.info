@@ -1,0 +1,9 @@
+file {
+  .version = 1;
+  entity {
+    .name = "orbit";
+    .mra_file = "orbit.mra";
+    .arch = {"orbit_arch"};
+    .syn_files = {"ORBIT.syn", "ORBIT__ORBIT_ARCH.syn"};
+   }
+}

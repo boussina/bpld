@@ -1,0 +1,86 @@
+--------------------------------------------------------------------------------
+Release 4.2i - Trace E.35
+Copyright (c) 1995-2001 Xilinx, Inc.  All rights reserved.
+
+trce orbit.ncd orbit.pcf -e 3 -o orbit.twr -xml orbit.twx
+
+Design file:              orbit.ncd
+Physical constraint file: orbit.pcf
+Device,speed:             xcs10,-4 (D 1.3 FINAL)
+Report level:             error report
+--------------------------------------------------------------------------------
+
+WARNING:Timing:2491 - No timing constraints found, doing default enumeration.
+
+================================================================================
+Timing constraint: Default period analysis
+
+ 28 items analyzed, 0 timing errors detected.
+ Maximum delay is  17.809ns.
+--------------------------------------------------------------------------------
+
+================================================================================
+Timing constraint: Default net enumeration
+
+ 11 items analyzed, 0 timing errors detected.
+ Maximum net delay is   6.866ns.
+--------------------------------------------------------------------------------
+
+
+All constraints were met.
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+d<0>           |s<0>           |   17.010|
+d<0>           |s<1>           |   15.395|
+d<0>           |s<2>           |   16.186|
+d<0>           |s<3>           |   15.457|
+d<0>           |s<4>           |   16.298|
+d<0>           |s<5>           |   17.418|
+d<0>           |s<6>           |   16.394|
+d<1>           |s<0>           |   17.276|
+d<1>           |s<1>           |   16.671|
+d<1>           |s<2>           |   15.060|
+d<1>           |s<3>           |   16.733|
+d<1>           |s<4>           |   16.104|
+d<1>           |s<5>           |   17.684|
+d<1>           |s<6>           |   16.200|
+d<2>           |s<0>           |   15.513|
+d<2>           |s<1>           |   15.198|
+d<2>           |s<2>           |   15.021|
+d<2>           |s<3>           |   15.260|
+d<2>           |s<4>           |   15.133|
+d<2>           |s<5>           |   15.921|
+d<2>           |s<6>           |   15.229|
+d<3>           |s<0>           |   17.122|
+d<3>           |s<1>           |   17.747|
+d<3>           |s<2>           |   17.605|
+d<3>           |s<3>           |   17.809|
+d<3>           |s<4>           |   16.602|
+d<3>           |s<5>           |   17.530|
+d<3>           |s<6>           |   16.698|
+---------------+---------------+---------+
+
+
+Timing summary:
+---------------
+
+Timing errors: 0  Score: 0
+
+Constraints cover 28 paths, 11 nets, and 35 connections (100.0% coverage)
+
+Design statistics:
+   Maximum combinational path delay:  17.809ns
+   Maximum net delay:   6.866ns
+
+
+Analysis completed Tue Sep 17 16:23:17 2002
+--------------------------------------------------------------------------------
+

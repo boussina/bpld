@@ -1,0 +1,15 @@
+Creating   'az.eep'
+Creating   'az.hex'
+Creating   'az.lst'
+
+Assembling 'az.asm'
+Including  'az.vec'
+Including  'az.inc'
+
+Program memory usage:
+Code             :  560 words
+Constants (dw/db):   30 words
+Unused           :    0 words
+Total            :  590 words
+
+Assembly complete with no errors.

@@ -1,0 +1,15 @@
+Creating   'orbit.eep'
+Creating   'orbit.hex'
+Creating   'orbit.lst'
+
+Assembling 'orbit.asm'
+Including  'orbit.vec'
+Including  'orbit.inc'
+orbit.asm(871) : 
+Program memory usage:
+Code             :  865 words
+Constants (dw/db):   37 words
+Unused           :    0 words
+Total            :  902 words
+
+Assembly complete with no errors.

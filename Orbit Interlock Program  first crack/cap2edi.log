@@ -1,0 +1,22 @@
+
+cap2edi V2.11 - OrCAD Capture Version 9.2 Built With EDI V3.12
+Copyright 1997-2001 - Engineering DataXpress, Inc., All rights Reserved.
+
+Running with Capture Version: 10.2.0
+
+Started Mon Sep 09 12:51:15 2002
+
+Translating schematic SCHEMATIC1
+  to library ORBIT INTERLOCK cell SCHEMATIC1 view 1 page PAGE1
+    Translating C:\BOUSS\ORCAD LIBRARY\LIBRARY\CONNECTOR.OLB symbol HEADER 10X2
+      to library CONNECTOR cell HEADER 10X2 view Normal
+    Translating C:\BOUSS\ATMEL\AVR.OLB symbol AT90S8535DIL
+      to library AVR cell AT90S8535DIL view Normal
+    Translating X:\APPLICATIONS\SUPPORTED\ORCAD\14.1\CAPTURE\LIBRARY\CAPSYM.OLB symbol TitleBlock0
+      to library CAPSYM cell TitleBlock0 view Normal
+Checking Semantics...
+Writing the output file C:\BOUSS\ORBIT INTERLOCK.EDF...
+
+Completed Mon Sep 09 12:51:23 2002
+Translated 3 symbols and 1 schematic page, 0 errors, 0 warnings
+

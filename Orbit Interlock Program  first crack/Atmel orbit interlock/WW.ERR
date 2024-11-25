@@ -1,0 +1,15 @@
+Creating   'ww.eep'
+Creating   'ww.hex'
+Creating   'ww.lst'
+
+Assembling 'ww.asm'
+Including  'ww.vec'
+Including  'ww.inc'
+
+Program memory usage:
+Code             :  780 words
+Constants (dw/db):   55 words
+Unused           :    0 words
+Total            :  835 words
+
+Assembly complete with no errors.

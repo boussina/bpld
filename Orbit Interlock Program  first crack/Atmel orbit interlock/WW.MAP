@@ -1,0 +1,26 @@
+CodeVisionAVR C Compiler V1.23.6a Evaluation
+(C) Copyright 1998-2002 HP InfoTech s.r.l.
+http://www.hpinfotech.ro
+e-mail:office@hpinfotech.ro , hpinfotech@xnet.ro
+
+File: E:\Boussina\orbit interlock\ww.c
+Global variables memory map:
+
+Variable                          Address   Size
+command                               E0h      5
+rep                                 R3,R4      2
+invalue                               E5h      4
+ten.iolines.a                         E9h      2
+ten.iolines.b                         EBh      0
+ten.iolines.c                         EBh      0
+ten.iolines.d                         EBh      0
+ten.iolines.e                         EBh      0
+ten.iolines.f                         EBh      0
+ten.iolines.g                         EBh      0
+ten.iolines.h                         EBh      0
+ten.iolines.i                         EBh      0
+ten.iolines.j                         EBh      0
+ten.iolines.k                         EBh      0
+ten.iolines.l                         EBh      0
+ten.dummy                             E9h      2
+*pp_G2                                EBh      2

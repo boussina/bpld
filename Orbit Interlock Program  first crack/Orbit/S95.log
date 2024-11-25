@@ -1,0 +1,116 @@
+CM: 
+CM: Checking...
+CM:  Error   L13/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 13   All possible string values of selector type not covered by choices.  (VSS-1032) 
+CM:  1 error(s) 0 warning(s) found
+CM: 
+CM: Checking...
+CM: Check Successful
+CM: 
+CM: Checking...
+CM:  Error   L30/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 30   Syntax error.  (VSS-1081) 
+CM:  Error   L31/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 31   Invalid character in input stream.  (VSS-964) 
+CM:  Error   L32/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 32   Syntax error.  (VSS-1081) 
+CM:  Error   L33/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 33   Syntax error.  (VSS-1081) 
+CM:  Error   L34/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 34   Syntax error.  (VSS-1081) 
+CM:  Error   L35/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 35   Syntax error.  (VSS-1081) 
+CM:  Error   L36/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 36   Syntax error.  (VSS-1081) 
+CM:  Error   L37/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 37   Syntax error.  (VSS-1081) 
+CM:  Error   L38/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 38   Syntax error.  (VSS-1081) 
+CM:  Error   L39/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 39   Syntax error.  (VSS-1081) 
+CM:  Error   L40/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 40   Syntax error.  (VSS-1081) 
+CM:  Error   L41/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 41   Syntax error.  (VSS-1081) 
+CM:  Error   L42/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 42   Syntax error.  (VSS-1081) 
+CM:  Error   L43/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 43   Syntax error.  (VSS-1081) 
+CM:  Error   L44/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 44   Syntax error.  (VSS-1081) 
+CM:  Error   L45/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 45   Syntax error.  (VSS-1081) 
+CM:  Error   L46/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 46   Syntax error.  (VSS-1081) 
+CM:  Error   L47/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 47   Invalid character in input stream.  (VSS-964) 
+CM:  20 error(s) 0 warning(s) found
+CM: 
+CM: Checking...
+CM:  Error   L30/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 30   Syntax error.  (VSS-1081) 
+CM:  Error   L31/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 31   Invalid character in input stream.  (VSS-964) 
+CM:  Error   L32/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 32   Syntax error.  (VSS-1081) 
+CM:  Error   L33/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 33   Syntax error.  (VSS-1081) 
+CM:  Error   L34/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 34   Syntax error.  (VSS-1081) 
+CM:  Error   L35/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 35   Syntax error.  (VSS-1081) 
+CM:  Error   L36/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 36   Syntax error.  (VSS-1081) 
+CM:  Error   L37/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 37   Syntax error.  (VSS-1081) 
+CM:  Error   L38/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 38   Syntax error.  (VSS-1081) 
+CM:  Error   L39/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 39   Syntax error.  (VSS-1081) 
+CM:  Error   L40/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 40   Syntax error.  (VSS-1081) 
+CM:  Error   L41/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 41   Syntax error.  (VSS-1081) 
+CM:  Error   L42/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 42   Syntax error.  (VSS-1081) 
+CM:  Error   L43/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 43   Syntax error.  (VSS-1081) 
+CM:  Error   L44/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 44   Syntax error.  (VSS-1081) 
+CM:  Error   L45/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 45   Syntax error.  (VSS-1081) 
+CM:  Error   L46/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 46   Syntax error.  (VSS-1081) 
+CM:  Error   L47/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 47   Syntax error.  (VSS-1081) 
+CM:  18 error(s) 0 warning(s) found
+CM: 
+CM: Checking...
+CM:  Error   L30/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 30   Syntax error.  (VSS-1081) 
+CM:  Error   L31/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 31   Syntax error.  (VSS-1081) 
+CM:  Error   L32/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 32   Syntax error.  (VSS-1081) 
+CM:  Error   L33/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 33   Syntax error.  (VSS-1081) 
+CM:  Error   L34/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 34   Syntax error.  (VSS-1081) 
+CM:  Error   L35/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 35   Syntax error.  (VSS-1081) 
+CM:  Error   L36/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 36   Syntax error.  (VSS-1081) 
+CM:  Error   L37/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 37   Syntax error.  (VSS-1081) 
+CM:  Error   L38/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 38   Syntax error.  (VSS-1081) 
+CM:  Error   L39/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 39   Syntax error.  (VSS-1081) 
+CM:  Error   L40/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 40   Syntax error.  (VSS-1081) 
+CM:  Error   L41/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 41   Syntax error.  (VSS-1081) 
+CM:  Error   L42/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 42   Syntax error.  (VSS-1081) 
+CM:  Error   L43/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 43   Syntax error.  (VSS-1081) 
+CM:  Error   L44/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 44   Syntax error.  (VSS-1081) 
+CM:  Error   L45/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 45   Syntax error.  (VSS-1081) 
+CM:  Error   L46/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 46   Syntax error.  (VSS-1081) 
+CM:  17 error(s) 0 warning(s) found
+CM: 
+CM: Checking...
+CM:  Error   L30/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 30   Syntax error.  (VSS-1081) 
+CM:  Error   L31/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 31   Syntax error.  (VSS-1081) 
+CM:  Error   L32/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 32   Syntax error.  (VSS-1081) 
+CM:  Error   L33/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 33   Syntax error.  (VSS-1081) 
+CM:  Error   L34/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 34   Syntax error.  (VSS-1081) 
+CM:  Error   L35/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 35   Syntax error.  (VSS-1081) 
+CM:  Error   L36/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 36   Syntax error.  (VSS-1081) 
+CM:  Error   L37/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 37   Syntax error.  (VSS-1081) 
+CM:  Error   L38/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 38   Syntax error.  (VSS-1081) 
+CM:  Error   L39/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 39   Syntax error.  (VSS-1081) 
+CM:  Error   L40/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 40   Syntax error.  (VSS-1081) 
+CM:  Error   L41/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 41   Syntax error.  (VSS-1081) 
+CM:  Error   L42/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 42   Syntax error.  (VSS-1081) 
+CM:  Error   L43/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 43   Syntax error.  (VSS-1081) 
+CM:  Error   L44/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 44   Syntax error.  (VSS-1081) 
+CM:  16 error(s) 0 warning(s) found
+CM: 
+CM: Checking...
+CM:  Error   L30/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 30   Syntax error.  (VSS-1081) 
+CM:  Error   L31/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 31   Syntax error.  (VSS-1081) 
+CM:  Error   L32/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 32   Syntax error.  (VSS-1081) 
+CM:  Error   L33/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 33   Syntax error.  (VSS-1081) 
+CM:  Error   L34/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 34   Syntax error.  (VSS-1081) 
+CM:  Error   L35/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 35   Syntax error.  (VSS-1081) 
+CM:  Error   L36/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 36   Syntax error.  (VSS-1081) 
+CM:  Error   L37/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 37   Syntax error.  (VSS-1081) 
+CM:  Error   L38/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 38   Syntax error.  (VSS-1081) 
+CM:  Error   L39/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 39   Syntax error.  (VSS-1081) 
+CM:  Error   L40/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 40   Syntax error.  (VSS-1081) 
+CM:  Error   L41/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 41   Syntax error.  (VSS-1081) 
+CM:  Error   L42/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 42   Syntax error.  (VSS-1081) 
+CM:  Error   L43/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 43   Syntax error.  (VSS-1081) 
+CM:  Error   L44/C0 : #0 Error: C:/bouss/orbiti~1/orbit/orbit.vhd  line 44   Syntax error.  (VSS-1081) 
+CM:  15 error(s) 0 warning(s) found
+CM: 
+CM: Checking...
+CM: Check Successful
+CM: 
+CM: Checking...
+CM: Check Successful
+CM:  0 error(s) 0 warning(s) found
+CM:  0 error(s) 0 warning(s) found
+CM: 
+CM:  0 error(s) 0 warning(s) found
+CM:  0 error(s) 0 warning(s) found

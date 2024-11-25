@@ -1,0 +1,91 @@
+(ExpressProject "orbit interlock"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\orbit interlock.dsn"
+        (Type "Schematic Design")))
+    (NoModify)
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 150"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 44 870 44 496")
+        (Scroll "411 219")
+        (Zoom "93")
+        (Occurrence "/"))
+      (Path "C:\BOUSS\ORBIT INTERLOCK.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (PartMRUSelector
+    ("HEADER 32x2"
+      (FullPartName "HEADER 32x2.Normal")
+      (LibraryName
+         "X:\APPLICATIONS\SUPPORTED\ORCAD\14.1\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName
+         "X:\APPLICATIONS\SUPPORTED\ORCAD\14.1\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "X:\APPLICATIONS\SUPPORTED\ORCAD\14.1\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND_POWER
+      (LibraryName
+         "X:\APPLICATIONS\SUPPORTED\ORCAD\14.1\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (74154
+      (FullPartName "74154.Normal")
+      (LibraryName
+         "X:\APPLICATIONS\SUPPORTED\ORCAD\14.1\CAPTURE\LIBRARY\MUXDECODER.OLB")
+      (DeviceIndex "0"))
+    (74LS154
+      (FullPartName "74LS154.Normal")
+      (LibraryName
+         "X:\APPLICATIONS\SUPPORTED\ORCAD\14.1\CAPTURE\LIBRARY\MUXDECODER.OLB")
+      (DeviceIndex "0"))
+    ("4 HEADER"
+      (FullPartName "4 HEADER.Normal")
+      (LibraryName
+         "X:\APPLICATIONS\SUPPORTED\ORCAD\14.1\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CAPACITOR NON-POL"
+      (FullPartName "CAPACITOR NON-POL.Normal")
+      (LibraryName
+         "X:\APPLICATIONS\SUPPORTED\ORCAD\14.1\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL
+      (FullPartName "CRYSTAL.Normal")
+      (LibraryName
+         "X:\APPLICATIONS\SUPPORTED\ORCAD\14.1\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MAX232
+      (FullPartName "MAX232.Normal")
+      (LibraryName
+         "X:\APPLICATIONS\SUPPORTED\ORCAD\14.1\CAPTURE\LIBRARY\LINEDRIVERRECEIVER.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 12x2/SM"
+      (FullPartName "HEADER 12x2/SM.Normal")
+      (LibraryName
+         "X:\APPLICATIONS\SUPPORTED\ORCAD\14.1\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName
+         "X:\APPLICATIONS\SUPPORTED\ORCAD\14.1\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "X:\Applications\Supported\OrCAD\14.1\Capture\Library\Oldlibs"))

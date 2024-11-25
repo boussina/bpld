@@ -1,0 +1,12 @@
+net d<0> loc=p44;
+net d<1> loc=p45;
+net d<2> loc=p46;
+net d<3> loc=p47;
+net s<0> loc=p25;
+net s<1> loc=p26;
+net s<2> loc=p24;
+net s<3> loc=p20;
+net s<4> loc=p23;
+net s<5> loc=p18;
+net s<6> loc=p19;
+

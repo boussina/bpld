@@ -1,0 +1,142 @@
+Release 4.2i - Par E.35
+Copyright (c) 1995-2001 Xilinx, Inc.  All rights reserved.
+
+
+Tue Sep 17 16:23:10 2002
+
+par -w -ol 2 -d 0 map.ncd orbit.ncd orbit.pcf
+
+
+Constraints file: orbit.pcf
+
+Loading design for application par from file map.ncd.
+   "orbit" is an NCD, version 2.37, device xcs10, package pc84, speed -4
+Loading device for application par from file '4005e.nph' in environment
+C:/Xilinx.
+Device speed data version:  D 1.3 FINAL.
+
+
+Resolved that IOB <d<0>> must be placed at site P44.
+Resolved that IOB <d<1>> must be placed at site P45.
+Resolved that IOB <d<2>> must be placed at site P46.
+Resolved that IOB <d<3>> must be placed at site P47.
+Resolved that IOB <s<0>> must be placed at site P25.
+Resolved that IOB <s<1>> must be placed at site P26.
+Resolved that IOB <s<2>> must be placed at site P24.
+Resolved that IOB <s<3>> must be placed at site P20.
+Resolved that IOB <s<4>> must be placed at site P23.
+Resolved that IOB <s<5>> must be placed at site P18.
+Resolved that IOB <s<6>> must be placed at site P19.
+
+
+Device utilization summary:
+
+   Number of External IOBs            11 out of 112    18%
+      Flops:                           0
+      Latches:                         0
+
+   Number of CLBs                      4 out of 196     2%
+      Total CLB Flops:                 0 out of 392     0%
+      4 input LUTs:                    7 out of 392     1%
+      3 input LUTs:                    0 out of 196     0%
+
+
+
+
+Overall effort level (-ol):   2 (set by user)
+Placer effort level (-pl):    2 (set by user)
+Placer cost table entry (-t): 1
+Router effort level (-rl):    2 (set by user)
+Extra effort level (-xe):     0 (default)
+
+Starting initial Placement phase.  REAL time: 2 secs 
+Finished initial Placement phase.  REAL time: 2 secs 
+
+Starting Constructive Placer.  REAL time: 2 secs 
+Finished Constructive Placer.  REAL time: 2 secs 
+
+Dumping design to file orbit.ncd.
+
+Starting Optimizing Placer.  REAL time: 2 secs 
+Optimizing  
+Swapped 11 comps.
+Xilinx Placer [1]   5220   REAL time: 2 secs 
+
+Finished Optimizing Placer.  REAL time: 2 secs 
+
+Dumping design to file orbit.ncd.
+
+Total REAL time to Placer completion: 2 secs 
+Total CPU time to Placer completion: 1 secs 
+
+0 connection(s) routed; 35 unrouted.
+Starting router resource preassignment
+Completed router resource preassignment. REAL time: 3 secs 
+Starting iterative routing. 
+Routing active signals.
+End of iteration 1 
+35 successful; 0 unrouted; (0) REAL time: 3 secs 
+Constraints are met. 
+Dumping design to file orbit.ncd.
+Starting cleanup 
+Improving routing.
+End of cleanup iteration 1 
+35 successful; 0 unrouted; (0) REAL time: 4 secs 
+Dumping design to file orbit.ncd.
+Total REAL time: 4 secs 
+Total CPU  time: 2 secs 
+End of route.  35 routed (100.00%); 0 unrouted.
+No errors found. 
+Completely routed. 
+
+The design submitted for place and route did not meet the specified timing
+requirements.  Please use the static timing analysis tools (TRCE or Timing
+Analyzer) to report which constraints were not met.  To obtain a better result,
+you may try the following:
+  * Use the Re-entrant routing feature to run more router iterations on the
+design.
+  * Check the timing constraints to make sure the design is not
+over-constrained.
+  * Specify a higher placer effort level, if possible.
+  * Specify a higher router effort level.
+  * Use the Multi-Pass PAR (MPPR) feature.  This generates multiple placement
+trials from which the best (i.e., lowest design score) placement can be used
+with re-entrant routing to obtain a better result.
+
+Please consult the Development System Reference Guide for more detailed
+information about the usage options pertaining to these features.
+
+Total REAL time to Router completion: 4 secs 
+Total CPU time to Router completion: 2 secs 
+
+Generating PAR statistics.
+
+   The Delay Summary Report
+
+   The Score for this design is: 505
+
+
+The Number of signals not completely routed for this design is: 0
+
+   The Average Connection Delay for this design is:        4.466 ns
+   The Maximum Pin Delay is:                               6.866 ns
+   The Average Connection Delay on the 10 Worst Nets is:   2.931 ns
+
+   Listing Pin Delays by value: (ns)
+
+    d < 1.00   < d < 2.00  < d < 3.00  < d < 4.00  < d < 7.00  d >= 7.00
+   ---------   ---------   ---------   ---------   ---------   ---------
+           2           5           0           0          28           0
+
+Dumping design to file orbit.ncd.
+
+
+All signals are completely routed.
+
+Total REAL time to PAR completion: 4 secs 
+Total CPU time to PAR completion: 3 secs 
+
+Placement: Completed - No errors found.
+Routing: Completed - No errors found.
+
+PAR done.
